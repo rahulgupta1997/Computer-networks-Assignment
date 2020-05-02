@@ -1,0 +1,17 @@
+name Rahul Gupta
+Id 2016B2A70917P
+
+compilation procedure
+1 compile using gcc server917.c -o s
+2 compile using gcc client917.c -o c
+
+Run
+1 ./s
+2 ./c
+
+
+All required information will be on terminal 
+
+
+ 
+
